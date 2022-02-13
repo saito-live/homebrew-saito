@@ -1,5 +1,5 @@
 
-class Espanso < Formula
+class Saito < Formula
   desc "Saito is a Tier 1 Blockchain Protocol that incentivizes the provision of high-throughput network infrastructure. "
   homepage "https://github.com/saito-live/saito-rust"
   url "https://github.com/saito-live/saito-rust/releases/download/v0.0.1/saito-mac-v0.0.1.tar.gz"

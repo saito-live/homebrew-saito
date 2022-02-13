@@ -1,5 +1,5 @@
 
-class Espanso < Formula
+class Saitocli < Formula
   desc "Saito is a Tier 1 Blockchain Protocol that incentivizes the provision of high-throughput network infrastructure. "
   homepage "https://github.com/saito-live/saito-rust"
   url "https://github.com/saito-live/saito-rust/releases/download/v0.0.1/saitocli-mac-v0.0.1.tar.gz"
@@ -7,6 +7,6 @@ class Espanso < Formula
   version "0.0.1"
 
   def install
-    bin.install "saito"
+    bin.install "saitocli"
   end
 end
